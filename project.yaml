@@ -2,11 +2,9 @@ basic:
     name: 'Teste entre Figma e projeto'
     environments:
         production: 'https://alojamentoprod.dev11.javali.pt/'
-        staging: 'https://www.figma.com/proto/PARnkJJCbeWphKMrqlOnqO/site_alojamento-fct?node-id=1322-13908&m=dev&scaling=min-zoom&content-scaling=fixed&page-id=1266%3A14294&t=WcvCAv8L5FWW5Wwg-1'
+        staging: 'https://brassy-careful-tabletop.glitch.me/'
         development: ''
     breakpoints:
-        - 560
-        - 1024
         - 1250
     pages:
         - /
