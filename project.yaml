@@ -8,6 +8,8 @@ basic:
         - 1366
     pages:
         - /
+        - ofertas
+        - imovel/quarto-em-cova-da-piedade-38
     monitoring:
         days: {  }
         type: daily
