@@ -6,6 +6,7 @@ basic:
         development: ''
     breakpoints:
         - 1250
+        - 1366
     pages:
         - /
     monitoring:
