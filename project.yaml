@@ -5,7 +5,6 @@ basic:
         staging: 'https://brassy-careful-tabletop.glitch.me/'
         development: ''
     breakpoints:
-        - 1250
         - 1366
     pages:
         - /
