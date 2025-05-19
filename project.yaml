@@ -1,16 +1,16 @@
 basic:
     name: 'Teste entre Figma e projeto'
     environments:
-        production: 'https://alojamentoprod.dev11.javali.pt/'
-        staging: 'https://brassy-careful-tabletop.glitch.me/'
+        production: 'https://alojamentoprod.dev11.javali.pt'
+        staging: 'https://brassy-careful-tabletop.glitch.me'
         development: ''
     breakpoints:
         - 376
         - 1366
     pages:
         - /
-        - ofertas
-        - imovel/quarto-em-cova-da-piedade-38
+        - /ofertas
+        - /imovel/quarto-em-cova-da-piedade-38
     monitoring:
         days: {  }
         type: daily
