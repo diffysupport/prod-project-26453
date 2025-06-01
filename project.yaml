@@ -4,6 +4,10 @@ basic:
         production: 'https://alojamentoprod.dev11.javali.pt'
         staging: 'https://brassy-careful-tabletop.glitch.me'
         development: ''
+    basicAuth:
+        production: { user: dev11, password: dev11 }
+        staging: { user: '', password: '' }
+        development: { user: '', password: '' }
     breakpoints:
         - 376
         - 1366
@@ -33,6 +37,7 @@ advanced:
     sensitivity: 15
     night_mode: false
     retina_images: false
+    single_ip: false
     login:
         type: none
         click_element: false
@@ -50,5 +55,3 @@ advanced:
         workers_production_delay: 0
         workers_nonproduction_delay: 0
     stabilize: true
-proxy: false
-type: single-site
